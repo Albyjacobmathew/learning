@@ -1,4 +1,4 @@
 a=100
-b=200
+b=20
 result=a/b
 print("Result is:",result)
